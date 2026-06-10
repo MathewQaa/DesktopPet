@@ -1,0 +1,3 @@
+cargo::rustc-check-cfg=cfg(mobile)
+cargo:rerun-if-changed=tauri.conf.json
+cargo:rerun-if-changed=../dist

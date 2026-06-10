@@ -1,0 +1,15 @@
+/Users/a1/Documents/DesktopPet project/desktop-pet/src-tauri/target/debug/deps/desktop_pet-0f4af45326bedabd.d: src/main.rs /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/f5e69b55f4a9658fd97fdff0e623b6a434de5688c80d6ebe77bd9496f8e64895 /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/af1349b9f5f9a1a6a0404dea36dcc9499bcb25c9adc112b7cc9a93cae41f3262 /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/f99311ae585f49c0e4d6d9f253ec43be821979ed8bba73c8df67d0ebf3b08ca8 /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/../dist/index.html /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/tauri-codegen-assets/496faeac7e225638cb0a326a2f9e480c6f38b27e9a6b4c590f362371b9bde8d9.html
+
+/Users/a1/Documents/DesktopPet project/desktop-pet/src-tauri/target/debug/deps/libdesktop_pet-0f4af45326bedabd.rmeta: src/main.rs /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/f5e69b55f4a9658fd97fdff0e623b6a434de5688c80d6ebe77bd9496f8e64895 /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/af1349b9f5f9a1a6a0404dea36dcc9499bcb25c9adc112b7cc9a93cae41f3262 /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/f99311ae585f49c0e4d6d9f253ec43be821979ed8bba73c8df67d0ebf3b08ca8 /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/../dist/index.html /Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/tauri-codegen-assets/496faeac7e225638cb0a326a2f9e480c6f38b27e9a6b4c590f362371b9bde8d9.html
+
+src/main.rs:
+/Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/f5e69b55f4a9658fd97fdff0e623b6a434de5688c80d6ebe77bd9496f8e64895:
+/Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/af1349b9f5f9a1a6a0404dea36dcc9499bcb25c9adc112b7cc9a93cae41f3262:
+/Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/f99311ae585f49c0e4d6d9f253ec43be821979ed8bba73c8df67d0ebf3b08ca8:
+/Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/../dist/index.html:
+/Users/a1/Documents/DesktopPet\ project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out/tauri-codegen-assets/496faeac7e225638cb0a326a2f9e480c6f38b27e9a6b4c590f362371b9bde8d9.html:
+
+# env-dep:CARGO_PKG_AUTHORS=MathewQaa
+# env-dep:CARGO_PKG_DESCRIPTION=A Desktop Pet application
+# env-dep:CARGO_PKG_NAME=desktop-pet
+# env-dep:OUT_DIR=/Users/a1/Documents/DesktopPet project/desktop-pet/src-tauri/target/debug/build/desktop-pet-758c1475a0dae490/out
