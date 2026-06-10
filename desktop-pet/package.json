@@ -1,0 +1,17 @@
+{
+  "name": "desktop-pet",
+  "version": "0.1.0",
+  "description": "Desktop Pet - A cute desktop companion",
+  "type": "module",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}
